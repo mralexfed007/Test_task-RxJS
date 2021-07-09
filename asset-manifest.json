@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/stop-watch-app/static/js/main.c0d34f4c.chunk.js",
+    "main.js.map": "/stop-watch-app/static/js/main.c0d34f4c.chunk.js.map",
+    "runtime-main.js": "/stop-watch-app/static/js/runtime-main.d5effcc9.js",
+    "runtime-main.js.map": "/stop-watch-app/static/js/runtime-main.d5effcc9.js.map",
+    "static/js/2.480ffc3e.chunk.js": "/stop-watch-app/static/js/2.480ffc3e.chunk.js",
+    "static/js/2.480ffc3e.chunk.js.map": "/stop-watch-app/static/js/2.480ffc3e.chunk.js.map",
+    "index.html": "/stop-watch-app/index.html",
+    "static/js/2.480ffc3e.chunk.js.LICENSE.txt": "/stop-watch-app/static/js/2.480ffc3e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5effcc9.js",
+    "static/js/2.480ffc3e.chunk.js",
+    "static/js/main.c0d34f4c.chunk.js"
+  ]
+}
